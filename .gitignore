@@ -1,0 +1,12 @@
+application_train*
+credit_risk*
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.pyc
