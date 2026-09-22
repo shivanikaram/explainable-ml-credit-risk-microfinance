@@ -58,7 +58,7 @@ The Streamlit application provides an interactive interface for credit risk pred
 <img width="975" height="494" alt="image" src="https://github.com/user-attachments/assets/a319702d-5457-4ea8-ac0d-1e8e6c445156" />
 <img width="604" height="783" alt="image" src="https://github.com/user-attachments/assets/4f7f7e83-029c-4151-935f-a6dce1c2bc64" />
 
-<img width="958" height="436" alt="image" src="https://github.com/user-attachments/assets/f54cf04b-cc92-42ba-b857-afb6753c4aab" />
+
 
 
 
